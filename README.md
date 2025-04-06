@@ -1,6 +1,8 @@
 # Danganronpa-V3-Coin-Editor
 A danganronpa V3 Coin Editor
 
+![CHEESE!](capture.png)
+
 If windows tell you it isn't secure, don't worry. 
 It's 100% safe and I don't have the skill to create a virus xD
 
