@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\bin\Release\DanganronpaV3CoinEditor.exe.config
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\bin\Release\DanganronpaV3CoinEditor.exe
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\bin\Release\DanganronpaV3CoinEditor.pdb
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.Form1.resources
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.Properties.Resources.resources
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.exe
+C:\Users\User\source\repos\DanganronpaV3CoinEditor\DanganronpaV3CoinEditor\obj\Release\DanganronpaV3CoinEditor.pdb
