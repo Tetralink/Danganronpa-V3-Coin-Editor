@@ -3,6 +3,8 @@ A danganronpa V3 Coin Editor
 
 ![CHEESE!](capture.png)
 
+Tutorial : https://youtu.be/8RVjfqRYEo0
+
 If windows tell you it isn't secure, don't worry. 
 Just ignore it
 
